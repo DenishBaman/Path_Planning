@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/a_star/AStar_GridMap.h
+Node.h
+../include/a_star/Node.h
+iostream
+-
+vector
+-
+SFML/Graphics.hpp
+-
+sstream
+-
+list
+-
+set
+-
+chrono
+-
+thread
+-
+
+../include/a_star/Node.h
+
+/home/dkbaman/a_star/Path_Planning/src/main.cpp
+a_star/AStar_GridMap.h
+-
+SFML/Graphics.hpp
+-
+

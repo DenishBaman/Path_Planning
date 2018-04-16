@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dkbaman/a_star/Path_Planning/src/sfml_test.cpp
+SFML/Graphics.hpp
+-
+iostream
+-
+vector
+-
+

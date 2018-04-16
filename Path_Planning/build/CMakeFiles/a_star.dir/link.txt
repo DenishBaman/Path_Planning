@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../bin/a_star/liba_star.a  CMakeFiles/a_star.dir/src/a_star/AStar_GridMap.cpp.o
+/usr/bin/ranlib ../bin/a_star/liba_star.a
