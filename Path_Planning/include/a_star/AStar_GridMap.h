@@ -1,5 +1,5 @@
-#ifndef Grid_Map_H_
-#define Grid_Map_H_
+#ifndef AStar_GridMap_H_
+#define AStar_GridMap_H_
 
 #include "Node.h"
 #include <iostream>
